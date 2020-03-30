@@ -1,0 +1,7 @@
+git pull
+
+git add filename.filetype
+
+git commit -m "description"
+
+git push
